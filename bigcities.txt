@@ -1,0 +1,12 @@
+Lyon;Auvergne-Rhone-Alpes;522969;45.748;4.847
+Lille;Hauts-de-France;234475;50.633;3.059
+Nice;Provence-Alpes-Cote d'Azur;342669;43.703;7.266
+Toulouse;Occitanie;493465;43.604;1.444
+Nantes;Pays-de-la-Loire;318808;47.217;-1.553
+Strasbourg;Grand-Est;274845;48.584;7.746
+Paris;Ile-de-France;2138551;48.853;2.349
+Marseille;Provence-Alpes-Cote d'Azur;870731;43.297;5.381
+Marne La Vallee;Ile-de-France;318325;48.836;2.642
+Bordeaux;Nouvelle-Aquitaine;260958;44.84;-0.581
+Montpellier;Occitanie;248252;43.611;3.876
+Rouen;Normandy;234475;49.443;1.099
